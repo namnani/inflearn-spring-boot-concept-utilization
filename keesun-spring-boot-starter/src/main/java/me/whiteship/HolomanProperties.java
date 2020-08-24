@@ -2,7 +2,7 @@ package me.whiteship;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties("holoman")
+@ConfigurationProperties("holoman2")
 public class HolomanProperties {
 
     private String name;
